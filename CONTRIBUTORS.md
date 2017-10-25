@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [Tisal Thenuwara](https://github.com/ToXiC396)
+ - Place: Colombo, Sri Lanka
+ - Bio: Learning Web Dev & Design, coding Java
+ - GitHub: [lulabell](https://github.com/ToXiC396)
