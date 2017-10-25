@@ -16630,5 +16630,5 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Tisal Thenuwara](https://github.com/ToXiC396)
  - Place: Colombo, Sri Lanka
- - Bio: Learning Web Dev & Design, coding Java
+ - Bio: Learning Web Dev & Design, coding Java and playing games
  - GitHub: [lulabell](https://github.com/ToXiC396)
